@@ -1,4 +1,4 @@
-* [ ] a - Elisa 
+* [x] a - Elisa 
 * [ ] b - Sungja 
 * [ ] c - Sungja 
 * [ ] d - Alex 
