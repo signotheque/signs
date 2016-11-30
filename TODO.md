@@ -9,14 +9,14 @@
 * [ ] i - Simon 
 * [ ] j - 
 * [ ] k - 
-* [ ] l - Stéphane
+* [x] l - Stéphane
 * [x] m - Stéphane
 * [x] n - Stéphane
 * [ ] o - Stéphane
 * [ ] p - 
-* [ ] q - Stéphane
+* [x] q - Stéphane
 * [ ] r - 
-* [ ] s - Stéphane
+* [x] s - Stéphane
 * [ ] t - 
 * [ ] u - 
 * [ ] v - 
