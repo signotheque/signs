@@ -12,7 +12,7 @@
 * [x] l - Stéphane
 * [x] m - Stéphane
 * [x] n - Stéphane
-* [ ] o - Stéphane
+* [x] o - Stéphane
 * [ ] p - 
 * [x] q - Stéphane
 * [ ] r - 
