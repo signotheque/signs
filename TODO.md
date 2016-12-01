@@ -5,9 +5,9 @@
 * [ ] e - Alex 
 * [ ] f - Elisa 
 * [ ] g - Elisa 
-* [ ] h - Simon 
+* [x] h - Sungja (Simon)
 * [x] i - Sungja (Simon) 
-* [ ] j - 
+* [x] j - Sungja
 * [ ] k - 
 * [x] l - Stéphane et Sungja
 * [x] m - Stéphane
@@ -23,4 +23,4 @@
 * [ ] w - 
 * [ ] x - 
 * [x] y - ?
-* [x] z - ?
+* [ ] z - 
