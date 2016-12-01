@@ -6,10 +6,10 @@
 * [ ] f - Elisa 
 * [ ] g - Elisa 
 * [ ] h - Simon 
-* [ ] i - Simon 
+* [x] i - Sungja (Simon) 
 * [ ] j - 
 * [ ] k - 
-* [x] l - Stéphane
+* [x] l - Stéphane et Sungja
 * [x] m - Stéphane
 * [x] n - Stéphane
 * [x] o - Stéphane
@@ -18,8 +18,8 @@
 * [ ] r - 
 * [x] s - Stéphane
 * [ ] t - 
-* [ ] u - 
-* [ ] v - 
+* [x] u - Sungja
+* [x] v - Sungja
 * [ ] w - 
 * [ ] x - 
 * [x] y - ?
