@@ -20,7 +20,7 @@
 * [ ] t - 
 * [x] u - Sungja
 * [x] v - Sungja
-* [ ] w - 
+* [x] w - elisa
 * [ ] x - 
 * [x] y - ?
 * [ ] z - 
