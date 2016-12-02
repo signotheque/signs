@@ -23,4 +23,4 @@
 * [x] w - elisa
 * [x] x - elisa
 * [x] y - ?
-* [ ] z - 
+* [x] z - elisa
