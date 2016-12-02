@@ -15,7 +15,7 @@
 * [x] o - Stéphane
 * [x] p - elisa
 * [x] q - Stéphane
-* [ ] r - 
+* [x] r - elisa
 * [x] s - Stéphane
 * [ ] t - 
 * [x] u - Sungja
