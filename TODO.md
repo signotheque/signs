@@ -3,7 +3,7 @@
 * [ ] c - Sungja 
 * [ ] d - Alex 
 * [ ] e - Alex 
-* [ ] f - Elisa 
+* [x] f - Elisa 
 * [ ] g - Elisa 
 * [x] h - Sungja (Simon)
 * [x] i - Sungja (Simon) 
