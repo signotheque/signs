@@ -8,7 +8,7 @@
 * [x] h - Sungja (Simon)
 * [x] i - Sungja (Simon) 
 * [x] j - Sungja
-* [ ] k - 
+* [x] k - elisa
 * [x] l - Stéphane et Sungja
 * [x] m - Stéphane
 * [x] n - Stéphane
