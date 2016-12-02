@@ -17,7 +17,7 @@
 * [x] q - Stéphane
 * [x] r - elisa
 * [x] s - Stéphane
-* [ ] t - 
+* [x] t - elisa
 * [x] u - Sungja
 * [x] v - Sungja
 * [x] w - elisa
