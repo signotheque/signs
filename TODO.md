@@ -21,6 +21,6 @@
 * [x] u - Sungja
 * [x] v - Sungja
 * [x] w - elisa
-* [ ] x - 
+* [x] x - elisa
 * [x] y - ?
 * [ ] z - 
