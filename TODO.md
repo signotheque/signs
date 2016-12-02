@@ -4,7 +4,7 @@
 * [ ] d - Alex 
 * [ ] e - Alex 
 * [x] f - Elisa 
-* [ ] g - Elisa 
+* [x] g - Elisa 
 * [x] h - Sungja (Simon)
 * [x] i - Sungja (Simon) 
 * [x] j - Sungja
