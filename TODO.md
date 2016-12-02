@@ -1,8 +1,8 @@
 * [x] a - Elisa 
 * [ ] b - Sungja 
 * [ ] c - Sungja 
-* [ ] d - Alex 
-* [ ] e - Alex 
+* [x] d - Alex 
+* [x] e - Alex 
 * [x] f - Elisa 
 * [x] g - Elisa 
 * [x] h - Sungja
